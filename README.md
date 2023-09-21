@@ -1,9 +1,7 @@
 # -Hello-World-
 
-## Heading
-# H4
-## H5
-## H6
+## Bold
+**bold text**
 
 ## Image
 ![alt text] (image.jpg)
